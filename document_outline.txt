@@ -37,7 +37,9 @@ Comp 484
     2. Structuring Pages is the title of the page so h2 is used
     3. From lines 5-10 we have all the other pages you can navigate to so they are surrounded by the nav tag
 
-2. From lines 12-29 we have all of the information provided being surrounded by the article tag
+2. From lines 12-29 we have all of the main content of the page so they are encased by the main element
+
+3. From lines 12-29 we have all of the information provided being surrounded by the article tag
     1. From lines 12-13 we have the beginning of the article marked as a header as it starts off and provides context for the content that follows
         1. Conveying meaning through structure is a subheader so it is given h3
             2. From lines 15-18 is one of the sections in the article so it is surrounded by a section tag
